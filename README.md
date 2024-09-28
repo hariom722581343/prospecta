@@ -18,8 +18,8 @@
  **Clone the repository:**
 
 ```
-git clone https://github.com/your-username/product-management-api.git
-cd product-management-api
+git clone https://github.com/your-username/prospecta.git
+cd prospecta
 
 ```
 
